@@ -19,6 +19,7 @@ namespace CharacterGenerator
 
         private void btnStats_Click(object sender, EventArgs e)
         {
+            //super efficient way to calculate stats, yep.
             Random random = new Random();
             int a, b, c, d = 0;
             int mod = 0;

@@ -1,1 +1,3 @@
 C:\Users\Waaas\Documents\GitHub\CharacterGenerator\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe.config
+C:\Users\Wes\Documents\GitHub\CharacterGenerator\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe.config
+C:\Users\Wes\Documents\GitHub\CharacterGenerator\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.pdb
