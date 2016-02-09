@@ -70,7 +70,7 @@ namespace CharacterGenerator
         #region methods
         private int StatTotal(int modifier)
         {
-
+			//my beautiful fiancee came up with this one
             return (modifier / 2) - 5;
         }
         #endregion
